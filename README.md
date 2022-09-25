@@ -9,7 +9,7 @@ developing software and video games with C++, as well as Barebones operating sys
 - Aside from programming, I have also been experimenting with different Linux distributions for my main desktop, as well as turning some older
  desktops and laptops into personal servers for file storage.
 
-- 📫 How to reach me here on GitHub or on LinkedIn @ www.linkedin.com/in/chris-skura-59b303183
+- 📫 How to reach me: Here on GitHub or on LinkedIn @ www.linkedin.com/in/chris-skura-59b303183
 
 <!---
 cZomb/cZomb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
